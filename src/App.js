@@ -1,11 +1,15 @@
 import React from "react"
 import './App.css'
+import { BrowserRouter as Router,Route, Routes } from 'react-router-dom';
+import Home from './Components/Home'
 
 const App = () => {
     return (
-        <>
-            <p>Heloooo</p>
-        </>
+        <Router basename={process.env.PUBLIC_URL}>
+            <Routes>
+                <Route path="/" element={<Home />} />
+            </Routes>
+        </Router>
     )
 }
 
