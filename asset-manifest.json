@@ -1,15 +1,22 @@
 {
   "files": {
-    "main.css": "/vrtravel/static/css/main.43d0affc.css",
-    "main.js": "/vrtravel/static/js/main.3dc22b81.js",
+    "main.css": "/vrtravel/static/css/main.1c1c056e.css",
+    "main.js": "/vrtravel/static/js/main.3ef34d3c.js",
     "static/js/453.2d321423.chunk.js": "/vrtravel/static/js/453.2d321423.chunk.js",
+    "static/media/holidaytheme-2.jpg": "/vrtravel/static/media/holidaytheme-2.5fb350a2f43670a4f2d2.jpg",
+    "static/media/home-banner1.png": "/vrtravel/static/media/home-banner1.7462b2f9a41be2ed5d78.png",
+    "static/media/holidaytheme-1.jpg": "/vrtravel/static/media/holidaytheme-1.151336cbe9b7082a6a08.jpg",
+    "static/media/holidaytheme-3.jpg": "/vrtravel/static/media/holidaytheme-3.8910f1d0d5ca9c5c8884.jpg",
+    "static/media/logo.png": "/vrtravel/static/media/logo.3e39d4b8b77bb80469c3.png",
+    "static/media/destination-2.jpg": "/vrtravel/static/media/destination-2.2ed3207ad91c4c7bfee4.jpg",
+    "static/media/destination-3.jpg": "/vrtravel/static/media/destination-3.1b1eccfbea73613b8de2.jpg",
     "index.html": "/vrtravel/index.html",
-    "main.43d0affc.css.map": "/vrtravel/static/css/main.43d0affc.css.map",
-    "main.3dc22b81.js.map": "/vrtravel/static/js/main.3dc22b81.js.map",
+    "main.1c1c056e.css.map": "/vrtravel/static/css/main.1c1c056e.css.map",
+    "main.3ef34d3c.js.map": "/vrtravel/static/js/main.3ef34d3c.js.map",
     "453.2d321423.chunk.js.map": "/vrtravel/static/js/453.2d321423.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.43d0affc.css",
-    "static/js/main.3dc22b81.js"
+    "static/css/main.1c1c056e.css",
+    "static/js/main.3ef34d3c.js"
   ]
 }
