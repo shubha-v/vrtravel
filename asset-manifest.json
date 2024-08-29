@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/vrtravel/static/css/main.43d0affc.css",
+    "main.js": "/vrtravel/static/js/main.3dc22b81.js",
+    "static/js/453.2d321423.chunk.js": "/vrtravel/static/js/453.2d321423.chunk.js",
+    "index.html": "/vrtravel/index.html",
+    "main.43d0affc.css.map": "/vrtravel/static/css/main.43d0affc.css.map",
+    "main.3dc22b81.js.map": "/vrtravel/static/js/main.3dc22b81.js.map",
+    "453.2d321423.chunk.js.map": "/vrtravel/static/js/453.2d321423.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.43d0affc.css",
+    "static/js/main.3dc22b81.js"
+  ]
+}
